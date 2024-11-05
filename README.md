@@ -5,13 +5,15 @@
 
 </h4>
 
-  ### Olou, tudo bom?! Muito prazer, meu nome é Manzoni (ou Felizone, chama como quiser), e esse é meu espacinho, vem comigo pra me conhecer 😄
+  ### Eae, beleza?! Muito prazer, meu nome é Manzoni (ou pelo menos todo mundo me chama assim), e esse é meu espacinho, vem comigo pra me conhecer 😄
 
-  - 🔭 Atualmente sou QA (Analista de Qualidade) na Méliuz!
-  - 📖 Sou formado em Ciência da Computação e tenho Mestrado em Eng. de Software e Interação Humano-Computador pela [UFAM](https://icomp.ufam.edu.br/) pesquisando pelo grupo do [USES](http://uses.icomp.ufam.edu.br/)!
-  - 💡 Amo projetos de Arduino e Raspberry e criar automações, inclusive, já dei aula sobre Arduino!
-  - 🌱 Estudando React & React Native com Typescript
-  - 🏹 Tenho o objetivo de espalhar conhecimento de Qualidade pelo mundo!
+  - 🔭 Atualmente estou como QA Sênior (Analista de Qualidade) no SiDi Manaus!
+  - 📖 Sou formado em Ciência da Computação e tenho Mestrado em Informática com foco em Engenharia de Software e Interação Humano-Computador pela [UFAM](https://icomp.ufam.edu.br/)!
+  - 📖 Sou Doutorando pelo [PPGI-UFAM](https://icomp.ufam.edu.br/) desde 2024!
+  - 💡 Amo projetos de Arduino e Raspberry e criar automações, inclusive, já dei aula sobre Arduino e fiz uma competição de desenvolvimento de projetos com Arduino e Raspy!
+  - 🌱 Estudando React & React Native com Typescript!
+  - 🌱 Estudando Gerência de pessoas e coordenação de projetos de software!
+  - 🏹 Tenho o objetivo de espalhar conhecimento de Qualidade pelo mundo e automação de testes!
   - ⚡ Fun fact: os dois amores da minha vida são a pesquisa...e a gastronomia!
 
 <div align="center">
@@ -41,11 +43,8 @@
     <img align="center" alt="manzoni-raspi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
     <img align="center" alt="manzoni-confluence" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" />
     <img align="center" alt="manzoni-jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
-    <img align="right" alt="Manzoni-pic" height="150" src="https://cdn.discordapp.com/attachments/750835706838122531/920689092088434738/20211215_104926.jpg" data-canonical-src="https://cdn.discordapp.com/attachments/750835706838122531/920689092088434738/20211215_104926.jpg" style="max-width: 100%;" />
   </a>
 </div>
-
-  ##
   
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FelpsManzoni/FelpsManzoni/output/github-contribution-grid-snake-dark.svg">
@@ -59,11 +58,8 @@
       <a href="https://www.facebook.com/felipe.manzoni.90/">
         <img align="center" alt="Link para o facebook do Manzoni" width="40" height="40" src="https://seeklogo.com/images/F/facebook-icon-logo-C61047A9E7-seeklogo.com.png" />    
       </a>
-      <a href="https://twitter.com/FSM_Lipe">
-        <img align="center" alt="Link para o twitter do Manzoni" width="40" height="40" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />    
-      </a>
       <a href="mailto: felipemanzoni3@gmail.com">
-        <img align="center" alt="Link para enviar um e-mail para o e-mail pessoal do Manzoni" width="40" height="40" src="https://www.carlosbarbosa.rs.leg.br/imagens/emailicon.png/image" />    
+        <img align="center" alt="Link para enviar um e-mail para o e-mail pessoal do Manzoni" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" />    
       </a>
       <a href="https://www.linkedin.com/in/felipe-sonntag-manzoni/">
         <img align="center" alt="Link para o LinkedIn do Manzoni" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" />    
@@ -73,7 +69,7 @@
 
   ### Ficou interessado na minha pesquisa? Dá uma olhada aqui:
   <div>
-    <h3>O que é minha pesquisa?</h3>
+    <h3>O que é minha pesquisa de Mestrado?</h3>
     - Minha pesquisa de Graduação e Mestrado foi focada na área de Engenharia de Software e Interação Humano-Computador voltada para a pesquisa sobre metodologias de avaliação de Jogos Digitais além do desenvolvimento de uma ferrameta para apoio a avaliação da Playability de jogos digitais.
     <h3>Se quiser saber mais, olha aqui meus artigos:</h3>
     <a href="https://www.researchgate.net/publication/324053878_NExPlay_-_Playability_Assessment_for_Non-experts_Evaluators">1. NExPlay - Playability Assessment for Non-experts Evaluators</a><br/>

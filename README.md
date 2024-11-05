@@ -22,7 +22,13 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FSMLipe&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
-  
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FelpsManzoni/FelpsManzoni/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FelpsManzoni/FelpsManzoni/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FelpsManzoni/FelpsManzoni/output/github-contribution-grid-snake.svg">
+</picture>  
+
 <div style="display: inline-block"><br>
   <a href="https://github.com/FSMLipe">
     <img align="center" alt="manzoni-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -45,12 +51,6 @@
     <img align="center" alt="manzoni-jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
   </a>
 </div>
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FelpsManzoni/FelpsManzoni/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FelpsManzoni/FelpsManzoni/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FelpsManzoni/FelpsManzoni/output/github-contribution-grid-snake.svg">
-</picture>
 
   <div align="center">
   <h2>📫 Fala comigo!</h2>  

@@ -1,25 +1,25 @@
 <h2 align="center"> Olou, tudo bom? Aqui é o Manzoni 👋 </h3>
 <h4 align="center">
 
-  ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
 </h4>
 
-  ### Eae, beleza?! Muito prazer, meu nome é Manzoni (ou pelo menos todo mundo me chama assim), e esse é meu espacinho, vem comigo pra me conhecer 😄
+### Eae, beleza?! Muito prazer, meu nome é Manzoni (ou pelo menos todo mundo me chama assim), e esse é meu espacinho, vem comigo pra me conhecer 😄
 
-  - 🔭 Atualmente estou como QA Sênior (Analista de Qualidade) no SiDi Manaus!
-  - 📖 Sou formado em Ciência da Computação e tenho Mestrado em Informática com foco em Engenharia de Software e Interação Humano-Computador pela [UFAM](https://icomp.ufam.edu.br/)!
-  - 📖 Sou Doutorando pelo [PPGI-UFAM](https://icomp.ufam.edu.br/) desde 2024!
-  - 💡 Amo projetos de Arduino e Raspberry e criar automações, inclusive, já dei aula sobre Arduino e fiz uma competição de desenvolvimento de projetos com Arduino e Raspy!
-  - 🌱 Estudando React & React Native com Typescript!
-  - 🌱 Estudando Gerência de pessoas e coordenação de projetos de software!
-  - 🏹 Tenho o objetivo de espalhar conhecimento de Qualidade pelo mundo e automação de testes!
-  - ⚡ Fun fact: os dois amores da minha vida são a pesquisa...e a gastronomia!
+- 🔭 Atualmente estou como QA Sênior (Analista de Qualidade) no SiDi Manaus!
+- 📖 Sou formado em Ciência da Computação e tenho Mestrado em Informática com foco em Engenharia de Software e Interação Humano-Computador pela [UFAM](https://icomp.ufam.edu.br/)!
+- 📖 Sou Doutorando pelo [PPGI-UFAM](https://icomp.ufam.edu.br/) desde 2024!
+- 💡 Amo projetos de Arduino e Raspberry e criar automações, inclusive, já dei aula sobre Arduino e fiz uma competição de desenvolvimento de projetos com Arduino e Raspy!
+- 🌱 Estudando React & React Native com Typescript!
+- 🌱 Estudando Gerência de pessoas e coordenação de projetos de software!
+- 🏹 Tenho o objetivo de espalhar conhecimento de Qualidade pelo mundo e automação de testes!
+- ⚡ Fun fact: os dois amores da minha vida são a pesquisa...e a gastronomia!
 
 <div align="center">
-  <a href="https://github.com/FSMLipe">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FSMLipe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FSMLipe&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/FelpsManzoni">
+    <img height="180em" src="https://github-readme-stats-felipe-manzonis-projects.vercel.app/api?username=FelpsManzoni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-felipe-manzonis-projects.vercel.app/api/top-langs/?username=FelpsManzoni&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 
@@ -27,10 +27,10 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FelpsManzoni/FelpsManzoni/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FelpsManzoni/FelpsManzoni/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FelpsManzoni/FelpsManzoni/output/github-contribution-grid-snake.svg">
-</picture>  
+</picture>
 
 <div style="display: inline-block"><br>
-  <a href="https://github.com/FSMLipe">
+  <a href="https://github.com/FelpsManzoni">
     <img align="center" alt="manzoni-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img align="center" alt="manzoni-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
     <img align="center" alt="manzoni-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
@@ -67,7 +67,8 @@
     </div>
   </div>
 
-  ### Ficou interessado na minha pesquisa? Dá uma olhada aqui:
+### Ficou interessado na minha pesquisa? Dá uma olhada aqui:
+
   <div>
     <h3>O que é minha pesquisa de Mestrado?</h3>
     - Minha pesquisa de Graduação e Mestrado foi focada na área de Engenharia de Software e Interação Humano-Computador voltada para a pesquisa sobre metodologias de avaliação de Jogos Digitais além do desenvolvimento de uma ferrameta para apoio a avaliação da Playability de jogos digitais.
